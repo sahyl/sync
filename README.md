@@ -63,13 +63,19 @@ CLERK_API_KEY=<your-clerk-api-key>
 ### 4\. Run the Development Server
    npm run dev   `
 
-The application will be available at http://localhost:3000.
+The application will be available at https://sync-videocall.vercel.app/ .
 
 **Scripts**
 -----------
+\\
 
-ScriptDescriptionnpm run devStarts the development server with Turbopack.npm run buildBuilds the project for production.npm run startRuns the production build.npm run lintLints the codebase using ESLint.
+Description npm run dev Starts the development server with Turbopack.
 
+npm run build Builds the project for production.
+
+npm run start Runs the production build.
+
+npm run lint Lints the codebase using ESLint.
 **Dependencies**
 ----------------
 
